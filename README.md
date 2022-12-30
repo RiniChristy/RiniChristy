@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiniChristy
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis using Machine Learning, Deep Learning, Excel, Tableau, PowerBI, MySQL, SPSS & ArcGIS
+- 🌱 I’m currently learning Data Analysis using Machine Learning, Deep Learning, Excel, Tableau, PowerBI, Google Data Studio, MySQL, SPSS & ArcGIS
 - 💞️ I’m looking to collaborate on Data Analysis & Machine Learning
 - 📫 How to reach me ...
 
