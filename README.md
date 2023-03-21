@@ -2,7 +2,7 @@
 - 👀 I’m passionate about Data Science.
 - 🌱 I have a keen interest in Data Analysis & Visualization using Machine Learning, Deep Learning, Excel, Tableau, PowerBI, Google Data Studio, MySQL, SPSS & ArcGIS, and learning more.
 - 💞️ I am looking forward to getting a job as a Data Scientist.
-- 📫 How to reach me ...
+- 📫 How to reach me: rinithedatascientist@gmail.com
 
 <!---
 RiniChristy/RiniChristy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
